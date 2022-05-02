@@ -29,3 +29,5 @@ https://www.nexusmods.com/skyrimspecialedition/mods/17230
 
 *For example:*
 > Most if not all fixes will be natively implemented into Tilted Online
+
+> Crashes on connecting to server with "x" message
