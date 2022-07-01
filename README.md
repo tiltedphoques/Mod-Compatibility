@@ -9,7 +9,7 @@ Contains information about mod compatibility with Tilted Online also know as Sky
 2. Simply follow the provided "Mod-Compatibility" Issue Template and describe why a mod works or doesnt
 
 #### Voting for existing mod
-1. If a mod, you want to report on, already exists, then simply provide a comment on the Issue with your experience. 
+1. If a mod you want to report on already exists, then simply provide a comment on the Issue with your experience. 
 2. Should the experience match to what the author of the Issue reported, leave a a Thumbs Up or if not, a Thumbs Down.
 3. This allows us to filter and confirm the reports.
 
