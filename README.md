@@ -1,5 +1,5 @@
 # Mod-Compatibility
-Contains information about mod compatibility with Tilted Online also know as Skyrim Together: Reborn and Fallout Together: Reborn
+Contains information about mod compatibility with Tilted Online also know as Skyrim Together: Reborn and Fallout Together
 
 
 # How-To
